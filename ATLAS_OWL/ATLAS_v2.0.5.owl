@@ -1856,6 +1856,11 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#agricultural</IRI>
+        <Literal>specific ground cover releating to farming or agricultural needs, such as extensive farmland.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#animal</IRI>
         <Literal>A non-human organism capable of performing actions in an environment</Literal>
     </AnnotationAssertion>
@@ -1921,13 +1926,28 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#bush</IRI>
+        <Literal>A small to medium side plant which covers the ground</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#camera</IRI>
         <Literal>A passive sensor that captures image data</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#canyon</IRI>
+        <Literal>Deep gorge in the ground, typically with a river flowing through it.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#car</IRI>
         <Literal>A four-wheeled vehicle designed to transport people</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#cave</IRI>
+        <Literal>Large underground naturally formed chamber.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
@@ -2036,6 +2056,11 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#glacier</IRI>
+        <Literal>Slowly moving enormous mass of ice.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#gps</IRI>
         <Literal>A sensor that determines its precise location and altitude at a given point in time via signals received from satellites.</Literal>
     </AnnotationAssertion>
@@ -2043,6 +2068,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#grassland</IRI>
         <Literal>A large open area of country covered with grass</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#ground_cover</IRI>
+        <Literal>Plants which hug low to the ground and spread over wide areas</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
@@ -2058,6 +2088,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#gyroscope</IRI>
         <Literal>A sensor that measures orientation and angular velocity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#hill</IRI>
+        <Literal>Naturally elevated area of land with gentle slope.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
@@ -2121,6 +2156,11 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#mountain</IRI>
+        <Literal>Large natural elevation of surface rising abruptly from surrounding area.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#multispectral</IRI>
         <Literal>A camera that captures image data within specific wavelength ranges across the electromagnetic spectrum and has less than 40 bands</Literal>
     </AnnotationAssertion>
@@ -2128,6 +2168,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#night</IRI>
         <Literal>The period of darkness between sunset and sunrise when the sun is below the horizon.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#null</IRI>
+        <Literal>Any classification that is thought to be of importance but does not fall into any defined categories.</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
@@ -2168,6 +2213,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#pipe</IRI>
         <Literal>A tube used to typically convey liquids</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#plain</IRI>
+        <Literal>Area of flat land with few trees</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#plateau</IRI>
+        <Literal>Area of flat land at a reletively high elevation</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
@@ -2351,6 +2406,26 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#tree</IRI>
+        <Literal>A tall plant with a wooden trunk, branches, and leaves.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#tree_crown</IRI>
+        <Literal>Top part of a tree which includes branches and leaves.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#tree_root</IRI>
+        <Literal>Underground wooden roots of a tree which may break through to the surface.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#tree_trunk</IRI>
+        <Literal>The main wooden stem of the tree between the roots and crown.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#tundra</IRI>
         <Literal>A type of biome where the tree growth is hindered by low temperatures and short growing seasons.</Literal>
     </AnnotationAssertion>
@@ -2371,8 +2446,23 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#valley</IRI>
+        <Literal>Low are aof land situated between hills or mountains</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#vegetation</IRI>
+        <Literal>Plants in general</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#vehicle</IRI>
         <Literal>Objects that are capable of transporting people or items</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#void</IRI>
+        <Literal>Anything regions which should not be considered part of the images (corrupted data, misaligned pixels)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
@@ -2388,6 +2478,11 @@
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#weather</IRI>
         <Literal>The state of the atmosphere at a particular place and time as regards heat, cloudiness, dryness, sunshine, wind, and rain.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#wetland</IRI>
+        <Literal>Land consiting of marshes or swamps. Saturated with water</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
